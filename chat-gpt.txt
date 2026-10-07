@@ -1,0 +1,250 @@
+
+DetailedBillMay2026 (3).pdf
+PDF
+
+DetailedBillJun2026 (4).pdf
+PDF
+
+DetailedBillJul2026 (3).pdf
+PDF
+
+DetailedBillAug2026 (1).pdf
+PDF
+
+DetailedBillSep2026.pdf
+PDF
+
+Deep research
+: I am having a huge problem with a family not paying me, I need your help. I want you to create a huge breakdown of everything I have/had since day 0, these are all bills up to September, I am also lost on dates like what are all dates and what should I do and not do during all those dates, I am very carefully and picky on everything. So, I want you to bring everything in a very very detailed manner, make sure you include everything even what was changed and what did that change caused what was added/removed, credited, applies and why is it being charged like that to all and every line item or person! Bro they don't want to pay shit, I don't know what to do because it's 4 of them 3 are just paying line they never paid the first month, then the other one has an iPhone 15, then 2 of them have a iPhone 18 Pro Max brand new under my Spectrum account BCH my money!!!! And 2 have SSN and 2 don't like bch idk what to do, they don't want to pay I am over Past due $780.24 plus more than $1k per phone on Spectrum, then if I speak up I get in trouble, if I ask them for the phone they will talk shit about me to everyone around the world and a lot of bullshit will happen like I am so tired bro. So I want you to tell me everything what to do, I spoke to a representative how math works and she told me to multiply divide and share even amounts and the only difference with mine ending with 2427 is that I am paying for no trade in phone and airpod then she said that the free line promised was applied to iPads, she said something about this month add 140 which is Experience More for me and 5013 then add 30 30 and 30 more which are the other 3 lines and that will be 230 divided by 5 people is $46 each person, then do the same for TAXES & FEES
+T-Mobile fees & charges $27.42 & Government taxes & fees $10.27 that's 37.69 then devide by 5 7.53800 or $8 rounded each person, so that's for everyone...then she said that add under mine 2427 $30 from both tablet (CONNECTED DEVICES
+(818) 381-1877 Tablet Unlimited
+Includes $5.00 AutoPay Discount and $40.00 Mobile Internet Discount
+$20.00
+(818) 381-7268 Tablet Unlimited
+Includes $5.00 AutoPay Discount, $40.00 Mobile Internet Discount and
+$10.00 BOGO Service Promo with New Lines(ID250374)
+$10.00) plus the $13.12 from my no-trade in phone (HANDSETS
+(818) 209-2427 iPhone 15
+$26.25 installment with $13.13 R686 Apple iPhone Promo with New
+Line (ID260504)
+ID: 202606281108014185, Balance: $551.24, Installment 3 of 24
+Promotional credits apply towards device principal only.
+$13.12) plus the $20.84 from my AirPods (ACCESSORY
+(818) 209-2427 Apple AirPods Pro 3
+ID: 202606281108016234, Balance: $187.47, Installment 3 of 12
+$20.84). Same to 5013 $5.41 add the trade-in iPhone 15 ((818) 510-5013 iPhone 15
+$26.25 installment with $20.84 R384 Apple iPhone Promo with Trade
+(ID260586)
+ID: 202606301108211619, Balance: $551.24, Installment 3 of 24
+Promotional credits apply towards device principal only.
+$5.41). I am pretty sure that's all the charges I have to calculate, okay, that's september and that for current ones, what about past months since May? Can you generate a super huge and massive breakdown of what is happening so I check my past Zelle and see if I charged more or less and clear this out, use and check past chats too because we've talked about this in the past.
+
+…
+
+Worked for 31s
+Couldn’t open Deep research
+Deep Research has started working on the full audit. I included the attached August bill 
+ and September bill 
+, along with the detailed billing rules, family-allocation method, Spectrum issue, timeline/date questions, and account-protection concerns you described.
+
+It will first give you its research plan, then continue into the full detailed report.
+
+Okay, you don't understand. Neither me or 5013 is going to pay all that amount. Because if you check on the files, it's like one something for both of us. Like we're not gonna pay that. Like, that's why I'm explaining to you. We have to make things even, even like late fees, charges, and everything, right? And including, like, promotions and credits. But, like, I want you to separate three ways: charging everything, including fees, and then charging everything without credit and discounts, and then charging just two things: with and with no discounts and credits. But I want you to focus on, like, you know, since, like, you know, both, like everybody has to have the same amount. Like, it doesn't matter. Like, why are you saying that you put the fees and everything under my name? Like, I'm not gonna pay all of that. I'm not gonna pay everything all. Like, you get me what I mean? Like, you have to understand that I have to be the one who, like, you know, pay less. Like all I'm paying is for service and the devices. Like, I'm not gonna be like, oh, just because it says, like, you know, the, what's it called, plan or something like that, I have to be the one who has all the weight. You get me? I don't know if you understand what I'm trying to say, because, I mean, your calculations are pretty good. I mean, they make sense. But that's not okay to give the weight to two people, and the rest are going to pay, like, 40 or 50. That doesn't make sense, you get me? Like everybody has to have the same. It's a deal. It's an even breakdown.
+…
+
+Worked for 2m 31s
+
+
+Yes. I understand the rule now, and the earlier allocation model was wrong for the deal you are describing.
+
+I was treating T-Mobile’s billing labels as if they determined who in the family should pay. They do not. Just because T-Mobile puts $140 under “Account,” a late fee under the account holder, tablets under certain line numbers, or a credit on one section does not mean that amount becomes your personal responsibility.
+
+Your family calculation needs its own accounting system.
+
+The rule you actually want
+The baseline should be:
+
+Shared/account costs are divided evenly among the 5 people.
+
+That shared pool includes the regular family plan, additional-line charges, tablet/connected-device service, taxes, T-Mobile fees, government fees, prorations, catch-up charges, late charges, account-level one-time charges, and account-level credits/discounts/promotions.
+
+Then, personal physical equipment is added only to the person who has that equipment: iPhone installments, AirPods, etc.
+
+So the structure is:
+
+Person’s bill = equal 1/5 share of the shared pool + that person’s own equipment
+
+That is very different from saying “2427 and 5013 are the included lines, therefore they carry the $140 plan.” They should not. The September bill itself shows that the five-line voice setup is $140 for the account base plus three $30 AAL lines, but that is merely T-Mobile’s billing presentation. 
+
+And yes: I should not have dumped the August late fee onto you. Under the equal-sharing agreement you are describing, that belongs in the shared pool too unless you later decide there is a specific reason one person should be solely responsible.
+
+September proves the correct approach
+September is the cleanest month.
+
+The actual bill is $337.06. It contains $297.69 of plan/shared charges and $39.37 of equipment. The equipment is $33.96 attached to 2427 and $5.41 attached to 5013. 
+
+So instead of saying you owe $117.50 because the tablets and other account charges sit under you, the correct equal-base calculation is:
+
+$297.69 shared costs ÷ 5 = $59.538 per person.
+
+Then personal equipment is added afterward.
+
+Person	Equal shared portion	Personal equipment	September responsibility
+You / 2427	$59.54	$33.96	$93.50
+5013	$59.54	$5.41	$64.95
+Person 3	$59.54	$0	$59.54
+Person 4	$59.54	$0	$59.54
+Person 5	$59.53	$0	$59.53
+Total	$297.69	$39.37	$337.06
+That is much closer to the agreement you are describing.
+
+The one-cent difference is just penny reconciliation. You can rotate that penny instead of always assigning it to the same person.
+
+And notice what changed: the two tablet service charges are no longer dumped entirely onto you. They are service/account expenses inside the shared pool. Your personal extra is only your actual hardware: the iPhone and AirPods.
+
+The three breakdowns you want
+I'm going to rebuild May through September using these three accounting views.
+
+View 1 — EVERYTHING, using the actual discounted bill. Take the real carrier invoice after discounts, promotions and credits. Pool all non-hardware charges—including taxes, fees, late fees, prorations, tablets and account adjustments—among the 5 people. Then add personal equipment.
+
+For September, that gives the $93.50 / $64.95 / roughly $59.54 each structure above.
+
+View 2 — EVERYTHING before credits and discounts. This answers: “What would everybody's cost have been if T-Mobile had given us none of these savings?”
+
+September says total savings were $172.96, so the undiscounted economic amount is:
+
+$337.06 actual bill + $172.96 savings = $510.02. 
+
+The gross hardware before the two iPhone promotional credits is:
+
+Your iPhone: $26.25
+Your AirPods: $20.84
+5013 iPhone: $26.25
+Total gross equipment: $73.34
+Therefore:
+
+$510.02 − $73.34 = $436.68 shared gross cost
+
+$436.68 ÷ 5 = $87.336 each
+
+Using penny reconciliation:
+
+Person	Gross equal shared portion	Gross personal equipment	No-discount total
+You / 2427	$87.34	$47.09	$134.43
+5013	$87.34	$26.25	$113.59
+Person 3	$87.34	$0	$87.34
+Person 4	$87.33	$0	$87.33
+Person 5	$87.33	$0	$87.33
+Total	$436.68	$73.34	$510.02
+That column is useful because it proves how much T-Mobile's promotions are actually reducing the household cost.
+
+View 3 — JUST the two essential things: service + devices. Here we ignore taxes, government fees, T-Mobile recovery fees, late fees and other penalties so you can see what the actual phone arrangement costs on its own.
+
+For September, the actual discounted core service is:
+
+$140 + $30 + $30 + $30 + $20 + $10 = $260
+
+Then:
+
+$260 ÷ 5 = exactly $52 each.
+
+Add the actual discounted hardware:
+
+Person	Equal service	Device after promo	Core amount
+You / 2427	$52.00	$33.96	$85.96
+5013	$52.00	$5.41	$57.41
+Person 3	$52.00	$0	$52.00
+Person 4	$52.00	$0	$52.00
+Person 5	$52.00	$0	$52.00
+Total	$260.00	$39.37	$299.37
+That is probably the cleanest “what am I actually paying for service and my own devices?” view.
+
+And I will make a second version of that same View 3 without discounts/promotional credits, so you can compare “real discounted cost” versus “full retail cost.”
+
+This also changes July and August
+This is the bigger correction.
+
+I previously gave too much weight to when T-Mobile physically placed each line on the bill. For example, I treated July as mostly you and 5013 because the other three numbers did not appear yet. That follows the carrier statement, but it does not follow your family agreement.
+
+If the five-person agreement was already in effect for that period, then the shared July account cost needs to be split among the five people regardless of whether T-Mobile had finished transferring every number yet.
+
+Same thing with August.
+
+The August invoice has the $90 catch-up for the three transferred lines, $260 regular service, $37.45 plan taxes/fees, $39.37 equipment, and the $14.05 late-fee package. 
+
+Under your system, I should not say:
+
+“$30 belongs to this person, $140 belongs to you/5013, $14.05 belongs to you.”
+
+Instead I should first determine what is shared household/account cost, put that into one pool, divide it evenly by five, and only afterward attach true personal hardware.
+
+That will make August much more balanced too.
+
+Credits and promotions need to be treated symmetrically
+This was another important point you were making.
+
+If everybody shares the bad stuff—fees, taxes, late fees, prorations—then everybody should also share the good account-level stuff—credits, courtesy adjustments, plan promotions, AutoPay discounts and account-level savings.
+
+You cannot reasonably say:
+
+“Everybody shares the $14 late fee, but Celso alone gets/loses the $10 credit.”
+
+or:
+
+“Everybody gets the plan, but the $140 account base belongs to Celso because his name owns the account.”
+
+No. That breaks the equal arrangement.
+
+The rule must work both directions:
+
+Shared charge → ÷ 5.
+
+Shared credit → ÷ 5.
+
+Shared discount → ÷ 5.
+
+Shared late fee → ÷ 5.
+
+Personal hardware → individual person.
+
+Personal hardware credit/promotion → shown against that hardware in the normal discounted version.
+
+And in the “without any discounts or credits” version, I remove that device promotion and show the full installment instead.
+
+That gives us a mathematically consistent system.
+
+So yes: you are not supposed to be the account garbage can just because everything technically sits under your T-Mobile account. The carrier legally bills the account holder, but that is completely separate from how the five of you agreed to reimburse the account.
+
+The previous report's numbers such as $117.50 for you in September and especially the very heavy July allocation to you/5013 should not be treated as the final family ledger. The September equal-base number under the rule you've now clarified is $93.50 for you, $64.95 for 5013, and about $59.54 for each of the other three, including the shared fees/taxes and tablet service. 
+
+The full May–September reconstruction needs to be redone using this exact logic. 
+
+
+Deep research
+ I am trying to ask you for help because I am having such a headache and confusion, and your answer sucks. Your answer is the worst I can ever have. I am not doing this myself because I don't understand. Like I'm having such stress, and I don't know what the fuck is going on with you. You're confusing Spectrum with T-Mobile. I'm saying we're talking about T-Mobile right now. We're not talking about Spectrum. I just had to, I just gave you a short word about, like, what was going on, but all this is under T-Mobile. And I asked you three times, like I'm giving you the clear expectation and everything in your hands. And the most important things I ask you to are all months, since month zero to today, and each and every month has to have each and every line, even though it was deleted or not, and every activity or action. And at the end of the day, all you do is bullshit, like you give me useless answers, and you're not even breaking down what's added, removed, given, or, like, what the fuck is going on. Like, you... I'm literally explaining what I want from you, and you're giving me garbage. Do you even see the fact that you're not reading my message? Can you fucking read my message just again? Can you read word by word and do everything I ask you? Because I am not tolerating any shit right now. I'm being for real.
+
+
+Worked for 36s
+
+Deep Research is updating the research plan with your corrections and will continue from there. It will produce the revised report in the Deep Research app widget.
+
+Hmm, 'kay, hear me
+Yep, I'm right here.
+
+Okay. Um, I'm still confused about everything
+Yeah. Ugh. Totally fair. It feels messy. If you want, let’s slow down and get on the same page. What’s the single question you need answered first?
+
+Okay, let's start with May. What happened in May
+One moment.
+
+Everything
+Okay, so May is actually the cleanest starting point. This was the first T-Mobile bill. Simple compared to later months. I'm looking at May by itself before moving on to June.
+
+Okay, you're uh my bad, continue, but your answers are being so like, you know, useless and slow like you never add details to it, like, you know, this and this happened, X anything, like, you know, X Y Z thing happened, X Y Z was charged. Like, you know, I want you to be a Virgo. Like I hate when people doesn't give me details. Like I'm a Virgo. I'm a professionalist, uh- and everything like I want like, you know, continue but like I want you to do what I'm asking for and go beyond all the time. I don't want like short answers or like, you know, useless answers and I just want you look I- I just want you to be like, you know
+
+Worked for 51s
+Hmm. Got it. Let's get concrete and walk it step by step. So, May is basically day zero. The first T-Mobile bill was May twenty-seventh for one thing only, a home internet line ending in 3590. $70 after an autopay discount, plus a $2.10 carrier fee, for a total of $72.10. No phones, no AirPods, no extra lines yet. And that $70 covered service from May twenty-eighth through June twenty-seventh. Billed in advance. So When you’re thinking family split, there actually was no five-person phone setup on this bill. Just that single internet line. Does that match what you remember for May, before we move into June where things start to change really fast?
+
+Okay, let me clear it out. So you said May started with seventy dollars just for the home internet, plus the two dollar and ten cents carrier fee, which is a total of sev- seventy-two ten cents. Is that correct? And then Can you clarify if it's correct? That's everything I was charged
+Yes. That's right for May. Just that single Home Internet line and the $2 and 10 cents carrier fee. Total $72 and 10 cents.
+
