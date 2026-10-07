@@ -166,18 +166,25 @@ router.patch('/bills/:id', wrap(async (req, res) => {
   const access = await loadBillAccess(req.user.id, Number(req.params.id));
   if (!access) return res.status(404).json({ error: 'Bill not found' });
   if (!access.isOwner) return res.status(403).json({ error: 'Only the organizer can edit the bill' });
-  const { statement_date, due_date, provider_total_cents, notes, status, period_label } = req.body || {};
+  const body = req.body || {};
+  const { provider_total_cents, notes, status, period_label } = body;
+  // statement_date / due_date are only touched when the editor sends them, so an
+  // explicit empty value clears the date instead of silently keeping the old one.
+  const hasStatement = Object.hasOwn(body, 'statement_date');
+  const hasDue = Object.hasOwn(body, 'due_date');
   const { rows } = await query(
-    `UPDATE bills SET statement_date = COALESCE($1, statement_date),
-                      due_date = COALESCE($2, due_date),
-                      provider_total_cents = COALESCE($3, provider_total_cents),
-                      notes = COALESCE($4, notes),
-                      status = COALESCE($5, status),
-                      period_label = COALESCE($6, period_label)
-     WHERE id = $7 RETURNING *`,
+    `UPDATE bills SET statement_date = CASE WHEN $1::boolean THEN $2::date ELSE statement_date END,
+                      due_date = CASE WHEN $3::boolean THEN $4::date ELSE due_date END,
+                      provider_total_cents = COALESCE($5, provider_total_cents),
+                      notes = COALESCE($6, notes),
+                      status = COALESCE($7, status),
+                      period_label = COALESCE($8, period_label)
+     WHERE id = $9 RETURNING *`,
     [
-      statement_date || null,
-      due_date || null,
+      hasStatement,
+      hasStatement ? body.statement_date || null : null,
+      hasDue,
+      hasDue ? body.due_date || null : null,
       provider_total_cents === undefined || provider_total_cents === null ? null : Number(provider_total_cents),
       notes ?? null,
       status ?? null,

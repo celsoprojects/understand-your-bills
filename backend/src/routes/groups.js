@@ -166,20 +166,24 @@ router.post('/:id/lines', requireOwner, wrap(async (req, res) => {
 }));
 
 router.patch('/:id/lines/:lineId', requireOwner, wrap(async (req, res) => {
-  const { label, phone_number, device, member_id, active_from, active_to } = req.body || {};
+  const body = req.body || {};
+  const { label, phone_number, device, active_from, active_to } = body;
+  // member_id is sent explicitly by the editor, so an empty value must clear the assignment.
+  const hasMember = Object.hasOwn(body, 'member_id');
   const { rows } = await query(
     `UPDATE lines SET label = COALESCE($1, label),
                       phone_number = COALESCE($2, phone_number),
                       device = COALESCE($3, device),
-                      member_id = COALESCE($4, member_id),
-                      active_from = COALESCE($5, active_from),
-                      active_to = COALESCE($6, active_to)
-     WHERE id = $7 AND group_id = $8 RETURNING *`,
+                      member_id = CASE WHEN $4::boolean THEN $5::integer ELSE member_id END,
+                      active_from = COALESCE($6, active_from),
+                      active_to = COALESCE($7, active_to)
+     WHERE id = $8 AND group_id = $9 RETURNING *`,
     [
       label ?? null,
       phone_number ?? null,
       device ?? null,
-      member_id ?? null,
+      hasMember,
+      hasMember ? body.member_id ?? null : null,
       active_from || null,
       active_to || null,
       Number(req.params.lineId),
